@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I'm currently working on a Financial Filing Anomaly Detector for emerging market stocks
+- 🌱 I love building algorithms around my passions like training Neural Networks and Reinforcement Learning bots to play [Blackjack](https://github.com/MozartofCode/Blackjack) or using RAG to build smarter [wine recommendations](https://github.com/MozartofCode/Wine-LLM)
+- 👯 I'm looking to collaborate on AI-powered tools and fintech projects
+
+
+
 
 <!--
 **MozartofCode/MozartOfCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
