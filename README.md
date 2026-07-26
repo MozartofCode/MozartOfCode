@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I'm currently working on an AI Hedge Fund Concept
+- 🔭 I'm currently working on testing out different AI projects!
 - 🌱 I love building algorithms around my passions like training Neural Networks and Reinforcement Learning bots to play [Blackjack](https://github.com/MozartofCode/Blackjack) or using RAG to build smarter [wine recommendations](https://github.com/MozartofCode/Wine-LLM)
 - 👯 I'm looking to collaborate on AI-powered tools and fintech projects
 
