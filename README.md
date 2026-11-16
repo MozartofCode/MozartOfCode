@@ -4,7 +4,7 @@ I build AI systems that fix real workflow problems.
 
 I'm a CS grad from RIT (minor in Business Administration) and I like working close to the people who use what I build: shadowing support calls, interviewing stakeholders, and demoing to executives.
 
-## Selected projects
+## My Favorite Projects
 
 - **[Wine-LLM](https://github.com/MozartofCode/Wine-LLM)**: RAG wine sommelier over 111K+ reviews (OpenAI embeddings, pgvector, Llama 3.3 on Groq, Next.js, Flask), co-built and tested by 28 students
 - **[Task Tracker API](https://github.com/MozartofCode/Task-Tracker-API)**: Spring Boot REST API on AWS (EC2, RDS, S3, SQS) with CI/CD and 80%+ test coverage
