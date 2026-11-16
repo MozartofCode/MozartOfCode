@@ -14,7 +14,7 @@ I'm a CS grad from RIT (minor in Business Administration) and I like working clo
 
 Python, Java, TypeScript, SQL, AWS, PostgreSQL, OpenAI API, LangGraph, RAG, Next.js, Spring Boot
 
-Reach me @ [LinkedIn](https://www.linkedin.com/in/bertan-berker/)
+Reach me @ [https://linkedin.com/in/bertan-berker](https://www.linkedin.com/in/bertan-berker/)
 
 
 <!--
